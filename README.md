@@ -6,8 +6,8 @@
 ## I'm a Geek, Developer, (self-proclaimed)Philosopher
 #### and a part-time handyman for my wife 😉
 
-- 🔭 I'm currently going through my old projects and updating them one by one.
-- 🌱 I'm recently learning Tailwind, and system design related topics.
+- 🔭 Always be humble because there's always something that you don't understand.
+- 🌱 Art is fun. I'm learning how to sketch using just a pencil.
 - 🥅 2022 Goals: Exercise more and build a SaaS project.
 - ⚡ Fun fact: My first website was hosted on Geocities 🌍
 
@@ -43,11 +43,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Add Routes and Nested Routes In Angular](https://lokarithm.com/2022/05/16/how-to-add-routes-and-nested-routes-in-angular/)
-- [Linux: How To Convert HEIC Files to JPG or PNG](https://lokarithm.com/2021/02/27/linux-how-to-convert-heic-files-to-jpg-or-png/)
-- [How To Properly Construct A  POST Requests In Angular](https://lokarithm.com/2020/12/30/angular-post-request-with-header-body-and-parameters/)
-- [How To Copy All The Games From A Micro SD Card To A New One](https://lokarithm.com/2020/11/30/how-i-copied-all-of-my-nintendo-switch-games-to-a-new-micro-sd-card-using-the-dd-command/)
-- [Basics Of The Internet: TCP, HTTP, and HTTPS](https://lokarithm.com/2020/08/17/basics-of-the-internet-tcp-http-https/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lokarithm.com)
