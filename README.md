@@ -8,7 +8,7 @@
 
 - 🔭 Always be humble because there's always something that you don't understand.
 - 🌱 Art is fun. I'm learning how to sketch using just a pencil.
-- 🥅 2022 Goals: Exercise more and build a SaaS project.
+- 🥅 2023 Goals: Create a user management system using Angular and Firebase.
 - ⚡ Fun fact: My first website was hosted on Geocities 🌍
 
 ### Connect with me:
