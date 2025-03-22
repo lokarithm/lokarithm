@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Mount SMB With Command Line In Ubuntu And Debian](https://www.lokarithm.com/2023/05/14/how-to-mount-smb-with-command-line-in-ubuntu-and-debian/)
-- [How To Add Routes and Nested Routes In Angular](https://www.lokarithm.com/2022/05/16/how-to-add-routes-and-nested-routes-in-angular/)
-- [Linux: How To Convert HEIC Files to JPG or PNG](https://www.lokarithm.com/2021/02/27/linux-how-to-convert-heic-files-to-jpg-or-png/)
-- [How To Properly Construct A  POST Requests In Angular](https://www.lokarithm.com/2020/12/30/angular-post-request-with-header-body-and-parameters/)
-- [How To Copy All The Games From A Micro SD Card To A New One](https://www.lokarithm.com/2020/11/30/how-i-copied-all-of-my-nintendo-switch-games-to-a-new-micro-sd-card-using-the-dd-command/)
+- [How To Mount SMB With Command Line In Ubuntu And Debian](https://lokarithm.com/2023/05/14/how-to-mount-smb-with-command-line-in-ubuntu-and-debian/)
+- [How To Add Routes and Nested Routes In Angular](https://lokarithm.com/2022/05/16/how-to-add-routes-and-nested-routes-in-angular/)
+- [Linux: How To Convert HEIC Files to JPG or PNG](https://lokarithm.com/2021/02/27/linux-how-to-convert-heic-files-to-jpg-or-png/)
+- [How To Properly Construct A  POST Requests In Angular](https://lokarithm.com/2020/12/30/angular-post-request-with-header-body-and-parameters/)
+- [How To Copy All The Games From A Micro SD Card To A New One](https://lokarithm.com/2020/11/30/how-i-copied-all-of-my-nintendo-switch-games-to-a-new-micro-sd-card-using-the-dd-command/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lokarithm.com)
