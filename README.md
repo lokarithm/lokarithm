@@ -1,14 +1,14 @@
 # Hi there, I'm Lok 👋
 
-[![Website](https://img.shields.io/website?label=lokarithm.com&style=for-the-badge&url=https%3A%2F%2Flokarithm.com)](https://lokarithm.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lokarithm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flokarithm&screen_name=lokarithm)
+[![Website](https://img.shields.io/website?label=lokarithm.com&style=for-the-badge&labelColor=e1e3e6&url=https%3A%2F%2Flokarithm.com)](https://lokarithm.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lokarithm?color=1DA1F2&logo=bluesky&labelColor=e1e3e6&style=for-the-badge)](https://bsky.app/profile/lokarithm.bsky.social)
 
 ## I'm a Geek, Developer, (self-proclaimed)Philosopher
 #### and a part-time handyman for my wife 😉
 
 - 🔭 Always be humble because there's always something that you don't understand.
-- 🌱 Art is fun. I'm learning how to sketch using just a pencil.
-- 🥅 2023 Goals: Create an iOS app that help track your daily goals and displays the data as charts.
+- 🌱 Art is fun. I love to sketch using just a pencil.
+- 🥅 2025 Goals: Learn and build a successful SaaS app.
 - ⚡ Fun fact: My first website was hosted on Geocities 🌍
 
 ### Connect with me:
@@ -16,11 +16,11 @@
 [![website](./img/globe-light.svg)](https://lokarithm.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://lokarithm.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/lokarithm#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/lokarithm#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/lokarithm#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/lokarithm#gh-dark-mode-only)
+&nbsp;&nbsp;
+<a href="https://bsky.app/profile/lokarithm.bsky.social">
+<img src="./img/bluesky.svg" width="26"/></a>
 &nbsp;&nbsp;
 
 ### Languages and Tools:
@@ -53,6 +53,10 @@
 ➡️ [more blog posts...](https://lokarithm.com)
 
 ---
+* website:[https://lokarithm.com](https://lokarithm.com)
+* linkedin:[https://www.linkedin.com/in/lokarithm](https://www.linkedin.com/in/lokarithm)
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -61,6 +65,3 @@
 
 </details>
 
-[website]: https://lokarithm.com
-[twitter]: https://twitter.com/lokarithm
-[linkedin]: https://www.linkedin.com/in/lokarithm
