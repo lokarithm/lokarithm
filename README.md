@@ -8,7 +8,7 @@
 
 - 🔭 Always be humble because there's always something that you don't understand.
 - 🌱 Art is fun. I love to sketch using just a pencil.
-- 🥅 2025 Goals: Learn and build a successful SaaS app.
+- 🥅 2026 Goals: Build a profitable business.
 - ⚡ Fun fact: My first website was hosted on Geocities 🌍
 
 ### Connect with me:
